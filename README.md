@@ -10,4 +10,4 @@ Favorite Movie: Happy Potter *italics* or **bold**
 
 - and of course, my favorite character is harry potter, aside ffrom that he is very handsome, i love how he treat his professors, classmates, and friends, he gain enemy but he also gain friendships. *italics* or **bold**
 
--i badly recommend you to watch is movie series. 
+- i badly recommend you to watch is movie series. 
