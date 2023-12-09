@@ -1,8 +1,6 @@
-# app-dev
-my first repository
 
 ## H 2
-Favorite Movie: Happy Potter
+Favorite Movie: Happy Potter *italics* or **bold**
 
 - Happy potter move series makes me wanna move out and receive invitation from hogwarts *italics* or **bold**
 
@@ -12,3 +10,4 @@ Favorite Movie: Happy Potter
 
 - and of course, my favorite character is harry potter, aside ffrom that he is very handsome, i love how he treat his professors, classmates, and friends, he gain enemy but he also gain friendships. *italics* or **bold**
 
+-i badly recommend you to watch is movie series. 
