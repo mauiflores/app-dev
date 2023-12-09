@@ -1,21 +1,21 @@
 
-## H 2
+## H2
 Favorite Movie: Happy Potter *italics* or **bold**
 
-### H 3
-List of characters
-- Harry Potter
-- Ron Weasly
-- Harmoine Granger
-- Ginny Weasly
-- Professor Albus Dumbledore
-- Professor Severious Snape
-- Draco Malfoy
-- Lord Voldemort
+### H3
+List of characters *italics* or **bold**
+- Harry Potter **bold**
+- Ron Weasly **bold**
+- Harmoine Granger **bold**
+- Ginny Weasly **bold**
+- Professor Albus Dumbledore **bold**
+- Professor Severious Snape **bold**
+- Draco Malfoy **bold**
+- Lord Voldemort **bold**
 
 
-### H 3
-Why i like harry potter?
+### H3
+Why i like harry potter? *italics* or **bold**
 
 1.  Happy potter move series makes me wanna move out and receive invitation from hogwarts *italics* or **bold**
 
@@ -25,6 +25,6 @@ Why i like harry potter?
 
 4.  and of course, my favorite character is harry potter, aside ffrom that he is very handsome, i love how he treat his professors, classmates, and friends, he gain enemy but he also gain friendships. *italics* or **bold**
 
-5. i badly recommend you to watch is movie series. 
+5. i badly recommend you to watch is movie series. *italics* or **bold**
 
 
